@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700;1,800&display=swap');
+/*font-family: 'Playfair Display', serif;*/
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: gray;
+    font-weight: 500;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+}
+
+.Photodairy{
+    width: 80%;
+    margin : auto;
+}
+
+.Photodairy h6{
+    color: gray;
+    text-transform: uppercase;
+    font-weight: 200;
+    font-family: 'Playfair Display', serif;
+    padding-top: 25px;
+}
+
+.Photodairy h1{
+   color: gray;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Playfair Display', serif;
+    padding: 25px 0px 25px; 
+}
+
+.Photodairy p{
+    color: gray;
+    font-size: 16px;
+    font-weight: 200;
+    font-family: 'Playfair Display', serif;
+    padding-bottom: 25px;
+}
+
+.news{
+    background-color: #f0f0f0;
+
+}
+
+.hg{
+    height: 300px;
+}
+
+.news-content{
+
+
+}
+
+.news-content h1{
+    padding-bottom: 60px;
+    color: gray;
+    font-size: 44px;
+    font-weight: 500;
+    font-family: 'Playfair Display', serif;
+
+
+}
+
+.news-content input{
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid;
+    width: 100%;
+    outline: none;
+
+
+}
+
+.icon{
+    position: absolute;
+    bottom: 5px;
+    right: 15px;
+}
+
+
+.load input{
+  font-size: 16px;
+    font-weight: 200;
+    font-family: 'Playfair Display', serif;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    background-color: none;
+    border: 1px solid;
+
+}
+
+
+footer{
+
+
+}
+
+footer{
+    width: 100%;
+    background-color:#f0f0f0;
+    overflow: hidden;
+    padding: 50px;
+
+}
+
+.terms{
+    width: 40%;
+    float: left;
+
+
+}
+
+.terms ul{
+    list-style: none;
+}
+.terms ul li{
+   float: left;
+ 
+    
+}
+
+.terms ul li a{
+ text-decoration: none;
+ font-family: 'Playfair Display', serif;
+ color: gray;
+ text-transform: uppercase;
+ padding-left: 75px;
+
+
+
+    
+}
+
+.social-icon{
+    width: 30%;
+    float: right;
+
+
+}
+
+.social-icon ul{
+
+    list-style: none;
+}
+
+.social-icon ul li{
+    float: left;
+
+
+}
+
+.social-icon ul li a{
+    text-decoration: none;
+    margin-left: 40px;
+    font-family: 'Playfair Display', serif;
+    color: gray;
+    text-transform: uppercase;
+}
